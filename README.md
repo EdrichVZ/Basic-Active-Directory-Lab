@@ -9,3 +9,12 @@ This project documents the creation of a Windows Active Directory home lab envir
 - Configure Group Policy
 - Simulate enterprise infrastructure
 - Develop hands-on IT and cybersecurity skills
+
+## Virtualization Platform
+
+Installed Oracle VirtualBox to host the virtual lab environment.
+
+Purpose:
+- Isolate the lab from the host system
+- Simulate enterprise infrastructure
+- Allow safe testing and rollback
