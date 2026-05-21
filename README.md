@@ -36,3 +36,12 @@ Created dedicated folders for:
 - Documentation
 
 This keeps the lab organized and easier to maintain.
+
+## Domain Controller VM
+
+Created a Windows Server 2022 virtual machine named DC01.
+
+Specifications:
+- 8GB RAM
+- 4 CPU cores
+- 60GB storage
