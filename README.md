@@ -19,3 +19,20 @@ Purpose:
 - Simulate enterprise infrastructure
 - Allow safe testing and rollback
 - (see Screenshots/virtualbox-installed.png)
+
+## Operating Systems Used
+
+- Windows Server 2022 Evaluation
+- Windows 10/11 Pro
+
+These systems were used to simulate a domain controller and enterprise workstation environment.
+
+## Lab Organization
+
+Created dedicated folders for:
+- ISOs
+- Virtual Machines
+- Screenshots
+- Documentation
+
+This keeps the lab organized and easier to maintain.
