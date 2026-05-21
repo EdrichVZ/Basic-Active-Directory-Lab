@@ -44,4 +44,6 @@ Created a Windows Server 2022 virtual machine named DC01.
 Specifications:
 - 8GB RAM
 - 4 CPU cores
-- 60GB storage
+- 50GB storage
+- (see Screenshots/domain_controller_VM-setup.png)
+- (see Screenshots/domain_controller_VM-hardware.png)
