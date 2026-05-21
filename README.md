@@ -18,3 +18,4 @@ Purpose:
 - Isolate the lab from the host system
 - Simulate enterprise infrastructure
 - Allow safe testing and rollback
+== see Screenshots/virtualbox-installed.png
