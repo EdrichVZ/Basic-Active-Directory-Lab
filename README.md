@@ -47,3 +47,6 @@ Specifications:
 - 50GB storage
 - (see Screenshots/domain_controller_VM-setup.png)
 - (see Screenshots/domain_controller_VM-hardware.png)
+
+Internal network called LABNET setup for DC01 VM.
+- (see Screenshots/domain_controller_VM-network.png)
