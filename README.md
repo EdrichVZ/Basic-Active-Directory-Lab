@@ -102,5 +102,5 @@ Purpose
 Active Directory provides centralized identity management, authentication, and administrative control within enterprise environments.
 
 Outcome
-Successfully created the wolftech.local Active Directory domain.
+Successfully created the basic.local Active Directory domain.
 - (see Screenshots/DC01_VM-AD-installed.png)
