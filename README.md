@@ -41,6 +41,12 @@ This keeps the lab organized and easier to maintain.
 
 Created a Windows Server 2022 virtual machine named DC01.
 
+Purpose
+This virtual machine will function as:
+- Active Directory Domain Controller
+- DNS Server
+- Centralized authentication server
+  
 Specifications:
 - 8GB RAM
 - 4 CPU cores
