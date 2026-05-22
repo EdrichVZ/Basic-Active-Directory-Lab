@@ -83,3 +83,24 @@ Network Configuration
 
 Purpose
 Static addressing ensures the Domain Controller remains consistently reachable by clients and domain services.
+
+## Active Directory Domain Services Installation
+
+Installed the Active Directory Domain Services (AD DS) role and promoted DC01 to a Domain Controller.
+- (see Screenshots/DC01_VM-Promoting to Domain Controller.png)
+
+Domain Information
+- Domain Name: basic.local
+- NetBIOS Name: basic
+- (see Screenshots/DC01_VM-basic-domain-created.png)
+
+Services Installed
+- Active Directory Domain Services
+- DNS Server
+
+Purpose
+Active Directory provides centralized identity management, authentication, and administrative control within enterprise environments.
+
+Outcome
+Successfully created the wolftech.local Active Directory domain.
+- (see Screenshots/DC01_VM-AD-installed.png)
