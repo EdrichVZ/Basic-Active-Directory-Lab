@@ -54,3 +54,5 @@ Install of Windows Server 2022 on DC01-VM succesfull.
 
 Internal network called LABNET setup for DC01 VM.
 - (see Screenshots/domain_controller_VM-network.png)
+
+PW = DC01@12345
