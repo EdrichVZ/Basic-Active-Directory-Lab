@@ -62,3 +62,24 @@ Internal network called LABNET setup for DC01 VM.
 - (see Screenshots/domain_controller_VM-network.png)
 
 PW = DC01@12345
+
+## Server Configuration
+
+Configured the Windows Server virtual machine prior to Active Directory installation.
+
+Tasks Completed
+- Renamed the server to DC01
+- Configured a static IP address
+- Configured local DNS settings
+- Verified basic network connectivity
+- (see Screenshots/DC01_VM-Renamed.png)
+- (see Screenshots/DC01_VM-OS-install.png)
+- (see Screenshots/DC01_VM-Network-Verifying.png)
+
+Network Configuration
+- IP Address: 192.168.10.10
+- Subnet Mask: 255.255.255.0
+- DNS Server: 192.168.10.10
+
+Purpose
+Static addressing ensures the Domain Controller remains consistently reachable by clients and domain services.
