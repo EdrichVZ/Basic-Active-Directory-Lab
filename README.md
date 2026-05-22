@@ -48,5 +48,9 @@ Specifications:
 - (see Screenshots/domain_controller_VM-setup.png)
 - (see Screenshots/domain_controller_VM-hardware.png)
 
+Install of Windows Server 2022 on DC01-VM succesfull.
+- (see Screenshots/DC01_VM-OS-install.png)
+- (see Screenshots/DC01_VM-Server-Manager
+
 Internal network called LABNET setup for DC01 VM.
 - (see Screenshots/domain_controller_VM-network.png)
