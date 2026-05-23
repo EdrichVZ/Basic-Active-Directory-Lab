@@ -104,3 +104,21 @@ Active Directory provides centralized identity management, authentication, and a
 Outcome
 Successfully created the basic.local Active Directory domain.
 - (see Screenshots/DC01_VM-AD-installed.png)
+
+Domain Join Completed
+
+Successfully joined CLIENT01 to the wolftech.local Active Directory domain.
+
+Key Achievements
+- Configured internal virtual network (LABNET)
+- Verified DNS functionality between client and domain controller
+- Resolved Active Directory connectivity issues
+- Successfully authenticated CLIENT01 into the domain
+
+Domain Information
+- Domain Name: wolftech.local
+- Domain Controller: DC01 (192.168.10.10)
+- Client Machine: CLIENT01
+
+Outcome
+CLIENT01 is now a domain-joined workstation managed by Active Directory.
