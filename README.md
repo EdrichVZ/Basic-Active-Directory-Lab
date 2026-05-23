@@ -122,3 +122,16 @@ Domain Information
 
 Outcome
 CLIENT01 is now a domain-joined workstation managed by Active Directory.
+
+Troubleshooting
+
+Issue: Domain Controller could not be contacted
+- Cause: VirtualBox internal network misconfiguration
+- Fix: Ensured both VMs used the same Internal Network (LABNET)
+
+Issue: DNS timeouts and nslookup failures
+- Cause: Incorrect DNS configuration and network profile settings
+- Fix: Set DC01 as DNS server (192.168.10.10) and restarted DNS/Netlogon services
+
+Lesson Learned
+Active Directory is heavily dependent on DNS and network configuration. Most issues were resolved by fixing DNS and virtual networking rather than AD itself.
